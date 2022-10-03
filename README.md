@@ -1,4 +1,4 @@
-Namecheap SSL installation in Cpanel and CWP 
+#Namecheap SSL installation in Cpanel and CWP 
 
 This script is for installing SSL for domains hosted in Cpanel and CWP, if there is no panel in the server, then the script will exit.
 
