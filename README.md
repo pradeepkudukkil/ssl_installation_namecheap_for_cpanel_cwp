@@ -1,8 +1,10 @@
-# ssl_installation_namecheap_for_cpanel_cwp
+Namecheap SSL installation in Cpanel and CWP 
+
+This script is for installing SSL for domains hosted in Cpanel and CWP, if there is no panel in the server, then the script will exit.
 
 prerequisite
----------
-First enable api access, and then add your public IP in the Namecheap portal for calling API calls from your network, script will provide the API call, you just need to run that API in your browser.
+-------
+First enable api access in namecheap, and then add your public IP in the Namecheap portal for calling API calls from your network, script will provide the API call, you just need to run that API in your browser.
 
 
 
